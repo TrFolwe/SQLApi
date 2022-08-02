@@ -1,6 +1,6 @@
-# SqlApi
-SqlApi made in php easy sqlite operation.
-You can easily set the folder field names and use them in your project.
+<h1 align="center">SqlApi</h1>
+<p align="center">SqlApi made in php easy sqlite operation.</p>
+<p align="center">You can easily set the folder field names and use them in your project.</p>
 
 ```php
 require "SqlApi.php";
